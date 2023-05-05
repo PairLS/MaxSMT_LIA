@@ -1,2 +1,2 @@
 # MaxSMT_LIA
-A Local Search Algorithm for MaxSMT(LIA) in cade2023
+A Local Search Algorithm for MaxSMT(LIA) in cp2023
